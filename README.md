@@ -22,6 +22,8 @@ A subset of the descriptions in `descriptions.csv` was rated based on 3 metrics:
 - `correctness` - (0-100) correctness of the description details based on image 
 - `detail` - (0-100) amount of detail contained in the description
 
+
+### Citing this Dataset
 When referencing this dataset in your own manuscripts and publications, please use the following full citations:
 
 [1] Aguirre, Carlos A., Amama Mahmood, and Chien-Ming Huang. "Crowdsourcing Thumbnail Captions via Time-Constrained Methods." 27th International Conference on Intelligent User Interfaces. 2022.
